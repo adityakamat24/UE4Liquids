@@ -1,0 +1,8 @@
+{
+	"BuildId": "17155196",
+	"Modules": 
+	{
+		"ZibraAILiquidEditor": "UE4Editor-ZibraAILiquidEditor.dll",
+		"ZibraAILiquidRuntime": "UE4Editor-ZibraAILiquidRuntime.dll"
+	}
+}

@@ -1,0 +1,28 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.4.0",
+	"FriendlyName": "Zibra Liquids",
+	"Description": "Zibra Liquids is a cross-platform GPU-based plugin for real-time fluid physics simulation and rendering",
+	"Category": "Code Plugins",
+	"CreatedBy": "Zibra AI",
+	"CreatedByURL": "https://zibra.ai/",
+	"DocsURL": "https://drive.google.com/file/d/1o-5tgSxEr7orPAYc4uBbAsSGZUwCnVEK/",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/071c6110698c405abb5e3f26ca62eadc",
+	"SupportURL": "mailto:support-unreal@zibra.ai",
+	"EngineVersion": "4.27.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "ZibraAILiquidRuntime",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "ZibraAILiquidEditor",
+			"Type": "Editor",
+			"LoadingPhase": "PostEngineInit"
+		}
+	]
+}

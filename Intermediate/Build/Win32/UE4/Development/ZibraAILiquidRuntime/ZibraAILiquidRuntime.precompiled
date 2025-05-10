@@ -1,0 +1,7 @@
+{
+	"OutputFiles": [
+		"PCH.ZibraAILiquidRuntime.h.obj",
+		"Module.ZibraAILiquidRuntime.cpp.obj",
+		"Module.ZibraAILiquidRuntime.gen.cpp.obj"
+	]
+}
